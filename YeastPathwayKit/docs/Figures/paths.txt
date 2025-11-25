@@ -1,0 +1,5 @@
+/home/bjorn/files/work-in-progress/ProjectpTAx/design/pTAx.odp
+/home/bjorn/files/work-in-progress/ProjectpTAx/pTAx.odp
+/home/bjorn/files/wiki-public-protocols/pTA_plasmid.odp
+/home/bjorn/files/mec@github/Pozdniakova_et_al_2022/notebooks/pTA1/pTAx.odp
+/home/bjorn/Teaching/.LIB20-Laboratorios-Integrados-de-Biologia_20-21/pTA_plasmid.odp

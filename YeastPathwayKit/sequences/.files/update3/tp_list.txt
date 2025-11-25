@@ -1,0 +1,14 @@
+GAL7    Z   1610    1609    ok
+GAL7    E   1610    1609    ok
+ADH1    Z   1608    1607    ok
+ADH1    E   1608    1607    ok
+RPL26A  Z   1606    1605    ok
+RPL26A  E   1606    1605    ok
+ALD6    Z   1604    1603    ok
+ALD6    E   1604    1603    ok
+RPS20   Z   1602    1601    ok
+RPS20   E   1602    1601    ok
+CIT2    Z   1600    1599    ok
+CIT2    E   1600    1599    ok
+RPL18A  Z   1598    1597    ok
+RPL18A  E   1598    1597    ok
