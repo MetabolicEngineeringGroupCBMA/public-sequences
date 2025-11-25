@@ -36,6 +36,7 @@ ScADH1pr-ScCYC1t
 ScCYC1pr-ScCYC1t
 Probably [[SacI]] - [[KpnI]] were used. In the case of [[pRS423]] and pRS425, there are two [[KpnI]] sites, so maybe a partial cut was used?
 
+```
                                          this part is the opposite 
                                          direction in the paper 
                                          (the version below is correct)
@@ -57,17 +58,19 @@ ACTAGTGGATCCCCCGGGCTGCAGA...
 >primer_rev
 TATCGATAAGCTTGATATCGAATTC...
 
-            [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]] [[EcoRI]] [[EcoRV]] [[HindIII]] [[ClaI]] [[SalI]] [[XhoI]]
+                [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]] [[EcoRI]] [[EcoRV]] [[HindIII]] [[ClaI]] [[SalI]] [[XhoI]]
 
-p413 [[HIS3]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]]      [[EcoRI]] [[EcoRV]]         [[ClaI]] [[SalI]] [[XhoI]]
-p414 [[TRP1]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]] [[EcoRI]]               [[ClaI]] [[SalI]] [[XhoI]]
-p415 [[LEU2]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]]             [[HindIII]]      [[SalI]] [[XhoI]]
-p416 [[URA3]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]]      [[EcoRI]]       [[HindIII]] [[ClaI]] [[SalI]] [[XhoI]]
+p413 [[HIS3]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]]          [[EcoRI]] [[EcoRV]]             [[ClaI]] [[SalI]] [[XhoI]]
+p414 [[TRP1]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]] [[EcoRI]]                       [[ClaI]] [[SalI]] [[XhoI]]
+p415 [[LEU2]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]]                     [[HindIII]]          [[SalI]] [[XhoI]]
+p416 [[URA3]]   [[XbaI]] [[SpeI]] [[BamHI]] [[SmaI]]          [[EcoRI]]           [[HindIII]] [[ClaI]] [[SalI]] [[XhoI]]
 
-p423 [[HIS3]]        [[SpeI]] [[BamHI]] [[SmaI]]      [[EcoRI]] [[EcoRV]]         [[ClaI]] [[SalI]] [[XhoI]]
-p424 [[TRP1]]        [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]] [[EcoRI]]               [[ClaI]] [[SalI]] [[XhoI]]
-p425 [[LEU2]]        [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]]        [[HindIII]]      [[SalI]] [[XhoI]]
-p426 [[URA3]]        [[SpeI]] [[BamHI]] [[SmaI]] [[EcoRI]]       [[HindIII]] [[ClaI]] [[SalI]] [[XhoI]]
+p423 [[HIS3]]            [[SpeI]] [[BamHI]] [[SmaI]]          [[EcoRI]] [[EcoRV]]             [[ClaI]] [[SalI]] [[XhoI]]
+p424 [[TRP1]]            [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]] [[EcoRI]]                       [[ClaI]] [[SalI]] [[XhoI]]
+p425 [[LEU2]]            [[SpeI]] [[BamHI]] [[SmaI]] [[PstI]]                     [[HindIII]]          [[SalI]] [[XhoI]]
+p426 [[URA3]]            [[SpeI]] [[BamHI]] [[SmaI]]          [[EcoRI]]           [[HindIII]] [[ClaI]] [[SalI]] [[XhoI]]
+
+```
 
 
 
