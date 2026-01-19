@@ -1,154 +1,266 @@
-LOCUS       pSH65                   8138 bp    DNA     linear   UNK 21-OCT-2020
+LOCUS       pSH65                   8138 bp    DNA     circular SYN 19-JAN-2026
 DEFINITION  pSH65 Circularized.
-ACCESSION   P30122
-VERSION     P30122
+ACCESSION   .
+VERSION     .
 KEYWORDS    .
 SOURCE      Unknown
-  ORGANISM  Unknown Unclassified.
+  ORGANISM  Unknown Unclassified. .
             .
 REFERENCE   1  (bases 1 to 8138)
   AUTHORS   Self
   JOURNAL   Unpublished.
-COMMENT     GÃ¼ldener, U., Heinisch, J., KÃ¶hler G.J., Voss, D., and Hegemann,
-            J.H. 2002: A second set of loxP marker cassettes for Cre-mediated
-            multiple gene knockouts in budding yeast. Nucleic Acids Research
-            30, e23
+COMMENT     Annotated with pLannotate v1.2.2.
             ApEinfo:methylated:0
-            pydna ldseguid=okHVRCyuIgPMb1Jf9ePl6ELlczI 2024-06-11T18:53:39
+            ApEinfo:cdseguid=FEU5H5BV4yVTVCANkejX4c3kOVk
 FEATURES             Location/Qualifiers
-     misc_feature    479..1286
-                     /gene="ura3"
-                     /product="ura3 region"
-                     /SECDrawAs="Region"
-                     /locus_tag="ura3 region"
-                     /label="ura3 region"
-                     /ApEinfo_label="ura3 region"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     CDS             690..1286
-                     /gene="delta-ura3"
-                     /product="inactivated ura3 gene"
-                     /SECDrawAs="Gene"
-                     /locus_tag="inactivated ura3 gene"
-                     /label="inactivated ura3 gene"
-                     /ApEinfo_label="inactivated ura3 gene"
-                     /ApEinfo_fwdcolor="pink"
-                     /ApEinfo_revcolor="pink"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    complement(2071..2274)
-                     /gene="tCYC1"
-                     /product="CYC1 terminator of S. cerevisiae"
-                     /SECDrawAs="Region"
-                     /locus_tag="CYC1 terminator of S. cerevisiae"
-                     /label="CYC1 terminator of S. cerevisiae"
-                     /ApEinfo_label="CYC1 terminator of S. cerevisiae"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     CDS             complement(2375..2755)
-                     /gene="bleR"
-                     /product="ble gene from Tn5, conferring resistance to"
-                     /SECDrawAs="Gene"
-                     /locus_tag="ble gene from Tn5, conferring resistance to"
-                     /label="ble gene from Tn5, conferring resistance to"
-                     /ApEinfo_label="ble gene from Tn5, conferring resistance
-                     to"
-                     /ApEinfo_fwdcolor="pink"
-                     /ApEinfo_revcolor="pink"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    complement(2774..3187)
-                     /gene="pScTEF1"
-                     /product="TEF1 promoter of S. cerevisiae"
-                     /SECDrawAs="Region"
-                     /locus_tag="TEF1 promoter of S. cerevisiae"
-                     /label="TEF1 promoter of S. cerevisiae"
-                     /ApEinfo_label="TEF1 promoter of S. cerevisiae"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    3231..3484
-                     /gene="tCYC1"
-                     /product="CYC1 terminator of S. cerevisiae"
-                     /SECDrawAs="Region"
-                     /locus_tag="CYC1 terminator of S. cerevisiae(1)"
-                     /label="CYC1 terminator of S. cerevisiae(1)"
-                     /ApEinfo_label="CYC1 terminator of S. cerevisiae"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     CDS             complement(3871..4832)
-                     /gene="Cre"
-                     /product="encoding of Cre recombinase"
-                     /SECDrawAs="Gene"
-                     /locus_tag="encoding of Cre recombinase"
-                     /label="encoding of Cre recombinase"
-                     /ApEinfo_label="encoding of Cre recombinase"
-                     /ApEinfo_fwdcolor="pink"
-                     /ApEinfo_revcolor="pink"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    complement(4941..5408)
-                     /gene="pGAL1"
-                     /product="inducible GAL1 promoter, derived from the"
-                     /SECDrawAs="Region"
-                     /locus_tag="inducible GAL1 promoter, derived from the"
-                     /label="inducible GAL1 promoter, derived from the"
-                     /ApEinfo_label="inducible GAL1 promoter, derived from the"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    5851..5923
-                     /gene="ori"
-                     /product="ColE1 origin of replication"
-                     /SECDrawAs="Region"
-                     /locus_tag="ColE1 origin of replication"
-                     /label="ColE1 origin of replication"
-                     /ApEinfo_label="ColE1 origin of replication"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
+     rep_origin      complement(5867..6455)
+                     /note="pLannotate"
+                     /label="ori"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     misc_feature    7628..8131
+                     /note="pLannotate"
+                     /label="CEN/ARS"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="misc_feature"
+     promoter        complement(4961..5402)
+                     /note="pLannotate"
+                     /label="GAL1 promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     rep_origin      complement(1444..1872)
+                     /note="pLannotate"
+                     /label="f1 ori"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="rep_origin"
+     promoter        complement(2774..3181)
+                     /note="pLannotate"
+                     /label="TEF1 promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     terminator      complement(3236..3483)
+                     /note="pLannotate"
+                     /label="CYC1 terminator"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="terminator"
+     protein_bind    complement(5285..5402)
+                     /note="pLannotate"
+                     /label="UAS"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     promoter        complement(7487..7591)
+                     /note="pLannotate"
+                     /label="AmpR promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     CDS             complement(3801..4832)
+                     /note="pLannotate"
+                     /label="Cre"
+                     /database="snapgene"
+                     /identity="99.9"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             complement(2378..2755)
+                     /note="pLannotate"
+                     /label="ble"
+                     /database="swissprot"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
      CDS             complement(6626..7486)
-                     /gene="ampR"
-                     /product="bla, encoding of beta-lactamase"
-                     /SECDrawAs="Gene"
-                     /locus_tag="bla, encoding of beta-lactamase"
-                     /label="bla, encoding of beta-lactamase"
-                     /ApEinfo_label="bla, encoding of beta-lactamase"
-                     /ApEinfo_fwdcolor="pink"
-                     /ApEinfo_revcolor="pink"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    7627..7742
-                     /gene="CEN6"
-                     /product="centromere sequence of chromosome VI (CEN6)"
-                     /SECDrawAs="Region"
-                     /locus_tag="centromere sequence of chromosome VI (CEN6)"
-                     /label="centromere sequence of chromosome VI (CEN6)"
-                     /ApEinfo_label="centromere sequence of chromosome VI
-                     (CEN6)"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
-     misc_feature    7755..8131
-                     /gene="ARSH4"
-                     /SECDrawAs="Region"
-                     /locus_tag="ARSH4"
-                     /label="ARSH4"
-                     /ApEinfo_label="ARSH4"
-                     /ApEinfo_fwdcolor="#ccff6b"
-                     /ApEinfo_revcolor="#ccff6b"
-                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
-                     -0.5} {} 0} width 5 offset 0"
+                     /note="pLannotate"
+                     /label="AmpR"
+                     /database="snapgene"
+                     /identity="99.8"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="CDS"
+     CDS             479..1286
+                     /note="pLannotate"
+                     /label="URA3 (fragment)"
+                     /database="snapgene"
+                     /identity="99.3"
+                     /match_length="100.5"
+                     /fragment="True"
+                     /other="CDS"
+     promoter        263..478
+                     /note="pLannotate"
+                     /label="URA3 promoter"
+                     /database="snapgene"
+                     /identity="99.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     promoter        2043..2061
+                     /note="pLannotate"
+                     /label="T7 promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     promoter        complement(5426..5444)
+                     /note="pLannotate"
+                     /label="T3 promoter"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     protein_bind    complement(5489..5505)
+                     /note="pLannotate"
+                     /label="lac operator"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     CDS             complement(1880..2035)
+                     /note="pLannotate"
+                     /label="lacZα (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="89.7"
+                     /fragment="True"
+                     /other="CDS"
+     terminator      complement(2071..2254)
+                     /note="pLannotate"
+                     /label="CYC1 terminator (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="74.2"
+                     /fragment="True"
+                     /other="terminator"
+     misc_feature    complement(4885..4946)
+                     /note="pLannotate"
+                     /label="MCS (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="57.4"
+                     /fragment="True"
+                     /other="misc_feature"
+     promoter        complement(5513..5543)
+                     /note="pLannotate"
+                     /label="lac promoter"
+                     /database="snapgene"
+                     /identity="96.8"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="promoter"
+     ncRNA           6310..6414
+                     /note="pLannotate"
+                     /label="RNAI"
+                     /database="Rfam"
+                     /identity="100.0"
+                     /match_length="102.9"
+                     /fragment="False"
+                     /other="ncRNA"
+     protein_bind    complement(5558..5579)
+                     /note="pLannotate"
+                     /label="CAP binding site"
+                     /database="snapgene"
+                     /identity="95.5"
+                     /match_length="100.0"
+                     /fragment="False"
+                     /other="protein_bind"
+     misc_feature    1365..1416
+                     /note="pLannotate"
+                     /label="bom (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="36.9"
+                     /fragment="True"
+                     /other="misc_feature"
+     misc_feature    199..248
+                     /note="pLannotate"
+                     /label="bom (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="35.5"
+                     /fragment="True"
+                     /other="misc_feature"
+     misc_feature    complement(3183..3209)
+                     /note="pLannotate"
+                     /label="MCS (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="47.4"
+                     /fragment="True"
+                     /other="misc_feature"
+     promoter        complement(5487..5505)
+                     /note="pLannotate"
+                     /label="T5 promoter (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="42.2"
+                     /fragment="True"
+                     /other="promoter"
+     CDS             complement(5592..5684)
+                     /note="pLannotate"
+                     /label="lacI (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="8.6"
+                     /fragment="True"
+                     /other="CDS"
+     CDS             62..97
+                     /note="pLannotate"
+                     /label="rop (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="18.8"
+                     /fragment="True"
+                     /other="CDS"
+     intron          2043..2062
+                     /note="pLannotate"
+                     /label="CMV intron (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="18.2"
+                     /fragment="True"
+                     /other="intron"
+     CDS             3206..3230
+                     /note="pLannotate"
+                     /label="lacZα (fragment)"
+                     /database="snapgene"
+                     /identity="100.0"
+                     /match_length="14.4"
+                     /fragment="True"
+                     /other="CDS"
+     CDS             complement(5498..5593)
+                     /note="pLannotate"
+                     /label="penA (fragment)"
+                     /database="swissprot"
+                     /identity="68.8"
+                     /match_length="10.2"
+                     /fragment="True"
+                     /other="CDS"
 ORIGIN
         1 agaaaccatt attatcatga cattaaccta taaaaatagg cgtatcacga ggccctttcg
        61 tctcgcgcgt ttcggtgatg acggtgaaaa cctctgacac atgcagctcc cggagacggt
