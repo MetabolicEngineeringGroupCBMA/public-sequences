@@ -1,0 +1,237 @@
+LOCUS       pFA6a_GFP_S65T__        4854 bp    DNA     circular     01-JAN-2026
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  . .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+COMMENT     ApEinfo:cdseguid=fisQRzPkD-XD07m2YQFOa2B1NdA
+FEATURES             Location/Qualifiers
+     gene            1031..2387
+                     /note="yeast selectable marker conferring kanamycin
+                     resistance"
+                     /note="color: #ff7f50"
+                     /locus_tag="kanMX"
+                     /label="kanMX"
+                     /ApEinfo_label="kanMX"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             complement(3527..4387)
+                     /codon_start=1
+                     /gene="bla"
+                     /note="confers resistance to ampicillin, carbenicillin,
+                     and related antibiotics"
+                     /note="color: #ccffcc"
+                     /product="β-lactamase"
+                     /transl_table=1
+                     /translation=MSIQHFRVALIPFFAAFCLPVFA,HPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVE
+                     YSPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRL
+                     DRWEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPL
+                     LRSALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIA
+                     EIGASLIKHW*
+                     /locus_tag="AmpR"
+                     /label="AmpR"
+                     /ApEinfo_label="AmpR"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             1375..2184
+                     /codon_start=1
+                     /gene="aph(3')-Ia"
+                     /note="confers resistance to kanamycin in bacteria or G418
+                     (Geneticin®) in eukaryotes"
+                     /note="color: #ccffcc"
+                     /product="aminoglycoside phosphotransferase"
+                     /transl_table=1
+                     /translation=MGKEKTHVSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLYGKP
+                     DAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPGKT
+                     AFQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVDA
+                     SDFDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVG
+                     IADRYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF*
+                     /locus_tag="KanR"
+                     /label="KanR"
+                     /ApEinfo_label="KanR"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     rep_origin      complement(2768..3356)
+                     /direction=LEFT
+                     /note="high-copy-number colE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /note="color: #ffff00"
+                     /locus_tag="ori"
+                     /label="ori"
+                     /ApEinfo_label="ori"
+                     /ApEinfo_fwdcolor="#999999"
+                     /ApEinfo_revcolor="#999999"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        1031..1374
+                     /note="Ashbya gossypii TEF promoter"
+                     /note="color: #ffffff"
+                     /locus_tag="TEF promoter"
+                     /label="TEF promoter"
+                     /ApEinfo_label="TEF promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     terminator      2190..2387
+                     /note="Ashbya gossypii TEF terminator"
+                     /note="color: #ffffff"
+                     /locus_tag="TEF terminator"
+                     /label="TEF terminator"
+                     /ApEinfo_label="TEF terminator"
+                     /ApEinfo_fwdcolor="#9d1b1c"
+                     /ApEinfo_revcolor="#9d1b1c"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        complement(4388..4492)
+                     /gene="bla"
+                     /note="color: #ffffff"
+                     /locus_tag="AmpR promoter"
+                     /label="AmpR promoter"
+                     /ApEinfo_label="AmpR promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        complement(2492..2510)
+                     /note="promoter for bacteriophage T7 RNA polymerase"
+                     /note="color: #ffffff"
+                     /locus_tag="T7 promoter"
+                     /label="T7 promoter"
+                     /ApEinfo_label="T7 promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     promoter        2..4838
+                     /note="promoter for bacteriophage SP6 RNA polymerase"
+                     /note="color: #ffffff"
+                     /locus_tag="SP6 promoter"
+                     /label="SP6 promoter"
+                     /ApEinfo_label="SP6 promoter"
+                     /ApEinfo_fwdcolor="#346ee0"
+                     /ApEinfo_revcolor="#346ee0"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     CDS             64..776
+                     /codon_start=3
+                     /db_xref="GI"
+                     /gene="gfp"
+                     /product="green fluorescent protein, S65T variant"
+                     /protein_id=AAA79306.1
+                     /transl_table=1
+                     /translation=KGEELFTGVVPILVELDGDVNGHKFSVSGEGEGDATYGKLTLKFI
+                     CTTGKLPVPWPTLVTTFTYGVQCFSRYPDHMKRHDFFKSAMPEGYVQERTIFFKDDGN
+                     YKTRAEVKFEGDTLVNRIELKGIDFKEDGNILGHKLEYNYNSHNVYIMADKQKNGIKV
+                     NFKIRHNIEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSALSKDPNEKRDHMVLL
+                     EFVTAAGITHGMDELYK*
+                     /note="color: #05fd14"
+                     /locus_tag="GFP(S65T)"
+                     /label="GFP(S65T)"
+                     /ApEinfo_label="GFP(S65T)"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+     terminator      797..984
+                     /note="color: #ffffff"
+                     /locus_tag="ADH1 terminator"
+                     /label="ADH1 terminator"
+                     /ApEinfo_label="ADH1 terminator"
+                     /ApEinfo_fwdcolor="#9d1b1c"
+                     /ApEinfo_revcolor="#9d1b1c"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {0 .5 .1 .5 .1 -.5 0 -.5} 0} width 5 offset 0"
+ORIGIN
+        1 gaacgcggcc gccagctgaa gcttcgtacg ctgcaggtcg acggatcccc gggttaatta
+       61 acagtaaagg agaagaactt ttcactggag ttgtcccaat tcttgttgaa ttagatggtg
+      121 atgttaatgg gcacaaattt tctgtcagtg gagagggtga aggtgatgca acatacggaa
+      181 aacttaccct taaatttatt tgcactactg gaaaactacc tgttccatgg ccaacacttg
+      241 tcactacttt tacgtatggt gttcaatgct tttcaagata cccagatcat atgaaacggc
+      301 atgacttttt caagagtgcc atgcccgaag gttatgtaca ggaaagaact atatttttca
+      361 aagatgacgg gaactacaag acacgtgctg aagtcaagtt tgaaggtgat acccttgtta
+      421 atagaatcga gttaaaaggt attgatttta aagaagatgg aaacattctt ggacacaaat
+      481 tggaatacaa ctataactca cacaatgtat acatcatggc agacaaacaa aagaatggaa
+      541 tcaaagttaa cttcaaaatt agacacaaca ttgaagatgg aagcgttcaa ctagcagacc
+      601 attatcaaca aaatactcca attggcgatg gccctgtcct tttaccagac aaccattacc
+      661 tgtccacaca atctgccctt tcgaaagatc ccaacgaaaa gagagaccac atggtccttc
+      721 ttgagtttgt aacagctgct gggattacac atggcatgga tgaactatac aaatagggcg
+      781 cgccacttct aaataagcga atttcttatg atttatgatt tttattatta aataagttat
+      841 aaaaaaaata agtgtataca aattttaaag tgactcttag gttttaaaac gaaaattctt
+      901 attcttgagt aactctttcc tgtaggtcag gttgctttct caggtatagc atgaggtcgc
+      961 tcttattgac cacacctcta ccggcagatc tgtttagctt gcctcgtccc cgccgggtca
+     1021 cccggccagc gacatggagg cccagaatac cctccttgac agtcttgacg tgcgcagctc
+     1081 aggggcatga tgtgactgtc gcccgtacat ttagcccata catccccatg tataatcatt
+     1141 tgcatccata cattttgatg gccgcacggc gcgaagcaaa aattacggct cctcgctgca
+     1201 gacctgcgag cagggaaacg ctcccctcac agacgcgttg aattgtcccc acgccgcgcc
+     1261 cctgtagaga aatataaaag gttaggattt gccactgagg ttcttctttc atatacttcc
+     1321 ttttaaaatc ttgctaggat acagttctca catcacatcc gaacataaac aaccatgggt
+     1381 aaggaaaaga ctcacgtttc gaggccgcga ttaaattcca acatggatgc tgatttatat
+     1441 gggtataaat gggctcgcga taatgtcggg caatcaggtg cgacaatcta tcgattgtat
+     1501 gggaagcccg atgcgccaga gttgtttctg aaacatggca aaggtagcgt tgccaatgat
+     1561 gttacagatg agatggtcag actaaactgg ctgacggaat ttatgcctct tccgaccatc
+     1621 aagcatttta tccgtactcc tgatgatgca tggttactca ccactgcgat ccccggcaaa
+     1681 acagcattcc aggtattaga agaatatcct gattcaggtg aaaatattgt tgatgcgctg
+     1741 gcagtgttcc tgcgccggtt gcattcgatt cctgtttgta attgtccttt taacagcgat
+     1801 cgcgtatttc gtctcgctca ggcgcaatca cgaatgaata acggtttggt tgatgcgagt
+     1861 gattttgatg acgagcgtaa tggctggcct gttgaacaag tctggaaaga aatgcataag
+     1921 cttttgccat tctcaccgga ttcagtcgtc actcatggtg atttctcact tgataacctt
+     1981 atttttgacg aggggaaatt aataggttgt attgatgttg gacgagtcgg aatcgcagac
+     2041 cgataccagg atcttgccat cctatggaac tgcctcggtg agttttctcc ttcattacag
+     2101 aaacggcttt ttcaaaaata tggtattgat aatcctgata tgaataaatt gcagtttcat
+     2161 ttgatgctcg atgagttttt ctaatcagta ctgacaataa aaagattctt gttttcaaga
+     2221 acttgtcatt tgtatagttt ttttatattg tagttgttct attttaatca aatgttagcg
+     2281 tgatttatat tttttttcgc ctcgacatca tctgcccaga tgcgaagtta agtgcgcaga
+     2341 aagtaatatc atgcgtcaat cgtatgtgaa tgctggtcgc tatactgctg tcgattcgat
+     2401 actaacgccg ccatccagtt taaacgagct cgaattcatc gatgatatca gatccactag
+     2461 tggcctatgc ggccgcggat ctgccggtct ccctatagtg agtcgtatta atttcgataa
+     2521 gccaggttaa cctgcattaa tgaatcggcc aacgcgcggg gagaggcggt ttgcgtattg
+     2581 ggcgctcttc cgcttcctcg ctcactgact cgctgcgctc ggtcgttcgg ctgcggcgag
+     2641 cggtatcagc tcactcaaag gcggtaatac ggttatccac agaatcaggg gataacgcag
+     2701 gaaagaacat gtgagcaaaa ggccagcaaa aggccaggaa ccgtaaaaag gccgcgttgc
+     2761 tggcgttttt ccataggctc cgcccccctg acgagcatca caaaaatcga cgctcaagtc
+     2821 agaggtggcg aaacccgaca ggactataaa gataccaggc gtttccccct ggaagctccc
+     2881 tcgtgcgctc tcctgttccg accctgccgc ttaccggata cctgtccgcc tttctccctt
+     2941 cgggaagcgt ggcgctttct caatgctcac gctgtaggta tctcagttcg gtgtaggtcg
+     3001 ttcgctccaa gctgggctgt gtgcacgaac cccccgttca gcccgaccgc tgcgccttat
+     3061 ccggtaacta tcgtcttgag tccaacccgg taagacacga cttatcgcca ctggcagcag
+     3121 ccactggtaa caggattagc agagcgaggt atgtaggcgg tgctacagag ttcttgaagt
+     3181 ggtggcctaa ctacggctac actagaagga cagtatttgg tatctgcgct ctgctgaagc
+     3241 cagttacctt cggaaaaaga gttggtagct cttgatccgg caaacaaacc accgctggta
+     3301 gcggtggttt ttttgtttgc aagcagcaga ttacgcgcag aaaaaaagga tctcaagaag
+     3361 atcctttgat cttttctacg gggtctgacg ctcagtggaa cgaaaactca cgttaaggga
+     3421 ttttggtcat gagattatca aaaaggatct tcacctagat ccttttaaat taaaaatgaa
+     3481 gttttaaatc aatctaaagt atatatgagt aaacttggtc tgacagttac caatgcttaa
+     3541 tcagtgaggc acctatctca gcgatctgtc tatttcgttc atccatagtt gcctgactcc
+     3601 ccgtcgtgta gataactacg atacgggagg gcttaccatc tggccccagt gctgcaatga
+     3661 taccgcgaga cccacgctca ccggctccag atttatcagc aataaaccag ccagccggaa
+     3721 gggccgagcg cagaagtggt cctgcaactt tatccgcctc catccagtct attaattgtt
+     3781 gccgggaagc tagagtaagt agttcgccag ttaatagttt gcgcaacgtt gttgccattg
+     3841 ctacaggcat cgtggtgtca cgctcgtcgt ttggtatggc ttcattcagc tccggttccc
+     3901 aacgatcaag gcgagttaca tgatccccca tgttgtgcaa aaaagcggtt agctccttcg
+     3961 gtcctccgat cgttgtcaga agtaagttgg ccgcagtgtt atcactcatg gttatggcag
+     4021 cactgcataa ttctcttact gtcatgccat ccgtaagatg cttttctgtg actggtgagt
+     4081 actcaaccaa gtcattctga gaatagtgta tgcggcgacc gagttgctct tgcccggcgt
+     4141 caatacggga taataccgcg ccacatagca gaactttaaa agtgctcatc attggaaaac
+     4201 gttcttcggg gcgaaaactc tcaaggatct taccgctgtt gagatccagt tcgatgtaac
+     4261 ccactcgtgc acccaactga tcttcagcat cttttacttt caccagcgtt tctgggtgag
+     4321 caaaaacagg aaggcaaaat gccgcaaaaa agggaataag ggcgacacgg aaatgttgaa
+     4381 tactcatact cttccttttt caatattatt gaagcattta tcagggttat tgtctcatga
+     4441 gcggatacat atttgaatgt atttagaaaa ataaacaaat aggggttccg cgcacatttc
+     4501 cccgaaaagt gccacctgac gtctaagaaa ccattattat catgacatta acctataaaa
+     4561 ataggcgtat cacgaggccc tttcgtctcg cgcgtttcgg tgatgacggt gaaaacctct
+     4621 gacacatgca gctcccggag acggtcacag cttgtctgta agcggatgcc gggagcagac
+     4681 aagcccgtca gggcgcgtca gcgggtgttg gcgggtgtcg gggctggctt aactatgcgg
+     4741 catcagagca gattgtactg agagtgcacc atatggacat attgtcgtta gaacgcggct
+     4801 acaattaata cataacctta tgtatcatac acatacgatt taggtgacac tata
+//

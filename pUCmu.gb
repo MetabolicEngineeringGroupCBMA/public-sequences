@@ -1,0 +1,70 @@
+LOCUS       .                       1669 bp    DNA     circular UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=0gUPRYkgH5qJgyw9Yc1dAeTQKT8 2024-06-11T18:53:43
+FEATURES             Location/Qualifiers
+     promoter        complement(1606..1669)
+                     /gene="bla"
+                     /label="AmpR promoter"
+                     /note="color: #ffffff"
+     misc_feature    1..130
+                     /gene=""
+                     /note="multiple cloning site"
+                     /note="color: #99ccff"
+                     /label="MCS"
+     rep_origin      complement(134..722)
+                     /direction=LEFT
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /note="color: #ffff00"
+                     /label="ori"
+     CDS             complement(745..1605)
+                     /codon_start=1
+                     /gene="bla"
+                     /note="confers resistance to ampicillin, carbenicillin, and
+                     related antibiotics"
+                     /note="color: #ccffcc"
+                     /product="β-lactamase"
+                     /transl_table=1
+                     /translation="MSIQHFRVALIPFFAAFCLPVFA,HPETLVKVKDAEDQLGARVGY
+                     IELDLNSGKILESFRPEERFPMMSTFKVLLCGAVLSRIDAGQEQLGRRIHYSQNDLVEY
+                     SPVTEKHLTDGMTVRELCSAAITMSDNTAANLLLTTIGGPKELTAFLHNMGDHVTRLDR
+                     WEPELNEAIPNDERDTTMPVAMATTLRKLLTGELLTLASRQQLIDWMEADKVAGPLLRS
+                     ALPAGWFIADKSGAGERGSRGIIAALGPDGKPSRIVVIYTTGSQATMDERNRQIAEIGA
+                     SLIKHW*"
+                     /label="AmpR"
+ORIGIN
+        1 acgcgtcgcg aggccatatg ggttaaccca tggccaagct tgcatgcctg caggtcgact
+       61 ctagaggatc ccgggtaccg agctcgaatt cggatatcct cgagactagt gggcccgttt
+      121 aaacacatgt gtttttccat aggctccgcc cccctgacga gcatcacaaa aatcgacgct
+      181 caagtcagag gtggcgaaac ccgacaggac tataaagata ccaggcgttt ccccctggaa
+      241 gctccctcgt gcgctctcct gttccgaccc tgccgcttac cggatacctg tccgcctttc
+      301 tcccttcggg aagcgtggcg ctttctcata gctcacgctg taggtatctc agttcggtgt
+      361 aggtcgttcg ctccaagctg ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg
+      421 ccttatccgg taactatcgt cttgagtcca acccggtaag acacgactta tcgccactgg
+      481 cagcagccac tggtaacagg attagcagag cgaggtatgt aggcggtgct acagagttct
+      541 tgaagtggtg gcctaactac ggctacacta gaagaacagt atttggtatc tgcgctctgc
+      601 tgaagccagt taccttcgga aaaagagttg gtagctcttg atccggcaaa caaaccaccg
+      661 ctggtagcgg tggttttttt gtttgcaagc agcagattac gcgcagaaaa aaaggatctc
+      721 aagaagatcc tttgatcttt tctactacca atgcttaatc agtgaggcac ctatctcagc
+      781 gatctgtcta tttcgttcat ccatagttgc ctgactcccc gtcgtgtaga taactacgat
+      841 acgggagggc ttaccatctg gccccagtgc tgcaatgata ccgcgagacc cacgctcacc
+      901 ggctccagat ttatcagcaa taaaccagcc agccggaagg gccgagcgca gaagtggtcc
+      961 tgcaacttta tccgcctcca tccagtctat taattgttgc cgggaagcta gagtaagtag
+     1021 ttcgccagtt aatagtttgc gcaacgttgt tgccattgct acaggcatcg tggtgtcacg
+     1081 ctcgtcgttt ggtatggctt cattcagctc cggttcccaa cgatcaaggc gagttacatg
+     1141 atcccccatg ttgtgcaaaa aagcggttag ctccttcggt cctccgatcg ttgtcagaag
+     1201 taagttggcc gcagtgttat cactcatggt tatggcagca ctgcataatt ctcttactgt
+     1261 catgccatcc gtaagatgct tttctgtgac tggtgagtac tcaaccaagt cattctgaga
+     1321 atagtgtatg cggcgaccga gttgctcttg cccggcgtca atacgggata ataccgcgcc
+     1381 acatagcaga actttaaaag tgctcatcat tggaaaacgt tcttcggggc gaaaactctc
+     1441 aaggatctta ccgctgttga gatccagttc gatgtaaccc actcgtgcac ccaactgatc
+     1501 ttcagcatct tttactttca ccagcgtttc tgggtgagca aaaacaggaa ggcaaaatgc
+     1561 cgcaaaaaag ggaataaggg cgacacggaa atgttgaata ctcatactct tcctttttca
+     1621 atattattga agcatttatc agggttattg tctcatgagc ggatacata
+//

@@ -1,0 +1,59 @@
+LOCUS       .                       1185 bp    DNA     circular UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=O04flTobIoM1Wf2vy_GGiZlQZPo 2024-06-11T18:43:13
+FEATURES             Location/Qualifiers
+     promoter        complement(1122..1185)
+                     /gene="bla"
+                     /label="AmpR promoter"
+                     /note="color: #ffffff"
+     CDS             complement(747..1121)
+                     /codon_start=1
+                     /gene="Sh ble from Streptoalloteichus hindustanus"
+                     /note="confers resistance to bleomycin, phleomycin, and
+                     Zeocin™"
+                     /note="color: #ccffcc"
+                     /product="antibiotic-binding protein"
+                     /transl_table=1
+                     /translation="MAKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDD
+                     VTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGR
+                     EFALRDPAGNCVHFVAEEQD*"
+                     /label="BleoR"
+     misc_feature    1..130
+                     /gene=""
+                     /note="multiple cloning site"
+                     /note="color: #99ccff"
+                     /label="MCS"
+     rep_origin      complement(134..722)
+                     /direction=LEFT
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /note="color: #ffff00"
+                     /label="ori"
+ORIGIN
+        1 acgcgtcgcg aggccatatg ggttaaccca tggccaagct tgcatgcctg caggtcgact
+       61 ctagaggatc ccgggtaccg agctcgaatt cggatatcct cgagactagt gggcccgttt
+      121 aaacacatgt gtttttccat aggctccgcc cccctgacga gcatcacaaa aatcgacgct
+      181 caagtcagag gtggcgaaac ccgacaggac tataaagata ccaggcgttt ccccctggaa
+      241 gctccctcgt gcgctctcct gttccgaccc tgccgcttac cggatacctg tccgcctttc
+      301 tcccttcggg aagcgtggcg ctttctcata gctcacgctg taggtatctc agttcggtgt
+      361 aggtcgttcg ctccaagctg ggctgtgtgc acgaaccccc cgttcagccc gaccgctgcg
+      421 ccttatccgg taactatcgt cttgagtcca acccggtaag acacgactta tcgccactgg
+      481 cagcagccac tggtaacagg attagcagag cgaggtatgt aggcggtgct acagagttct
+      541 tgaagtggtg gcctaactac ggctacacta gaaggacagt atttggtatc tgcgctctgc
+      601 tgaagccagt taccttcgga aaaagagttg gtagctcttg atccggcaaa caaaccaccg
+      661 ctggtagcgg tggttttttt gtttgcaagc agcagattac gcgcagaaaa aaaggatctc
+      721 aagaagatcc tttgatcttt tctacgtcag tcctgctcct cggccacgaa gtgcacgcag
+      781 ttgccggccg ggtcgcgcag ggcgaactcc cgcccccacg gctgctcgcc gatctcggtc
+      841 atggccggcc cggaggcgtc ccggaagttc gtggacacga cctccgacca ctcggcgtac
+      901 agctcgtcca ggccgcgcac ccacacccag gccagggtgt tgtccggcac cacctggtcc
+      961 tggaccgcgc tgatgaacag ggtcacgtcg tcccggacca caccggcgaa gtcgtcctcc
+     1021 acgaagtccc gggagaaccc gagccggtcg gtccagaact cgaccgctcc ggcgacgtcg
+     1081 cgcgcggtga gcaccggaac ggcactggtc aacttggcca tactcttcct ttttcaatat
+     1141 tattgaagca tttatcaggg ttattgtctc atgagcggat acata
+//
