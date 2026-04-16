@@ -1,0 +1,98 @@
+LOCUS       pUG66        3580 bp    DNA   CIRCULAR SYN        20-JUN-2013
+DEFINITION  PCR template vector pUG66, complete sequence.
+ACCESSION   P30116
+KEYWORDS    .
+SOURCE      Unknown.
+  ORGANISM  Unknown
+            Unclassified.
+REFERENCE   1  (bases 1 to 3580)
+  AUTHORS   Self
+  JOURNAL   Unpublished.
+COMMENT     Güldener, U., Heinisch, J., Köhler G.J., Voss, D., and Hegemann, J.H. 2002: A second set of loxP marker cassettes for Cre-mediated multiple gene knockouts in budding yeast. Nucleic Acids Research 30, e23
+FEATURES             Location/Qualifiers
+     misc_feature    54..87
+                     /gene="loxP"
+                     /SECDrawAs="Region"
+     misc_feature    97..485
+                     /gene="pAgTEF"
+                     /SECDrawAs="Region"
+     CDS             486..866
+                     /gene="ble"
+                     /product="bleomycin resistance protein"
+                     /SECDrawAs="Gene"
+     misc_feature    871..1106
+                     /gene="tAgTEF"
+                     /SECDrawAs="Region"
+     misc_feature    1132..1165
+                     /gene="loxP"
+                     /SECDrawAs="Region"
+     misc_feature    1478..1572
+                     /gene="ori"
+                     /SECDrawAs="Region"
+     CDS             complement (2254..3114)
+                     /gene="AmpR"
+                     /product="ampicillin resistance protein"
+                     /SECDrawAs="Gene"
+BASE COUNT      886 a    917 c    868 g    909 t
+ORIGIN      
+        1 agaacgcggc cgccagctga agcttcgtac gctgcaggtc gacaaccctt aatataactt
+       61 cgtataatgt atgctatacg aagttattag gtctagagat ctgtttagct tgcctcgtcc
+      121 ccgccgggtc acccggccag cgacatggag gcccagaata ccctccttga cagtcttgac
+      181 gtgcgcagct caggggcatg atgtgactgt cgcccgtaca tttagcccat acatccccat
+      241 gtataatcat ttgcatccat acattttgat ggccgcacgg cgcgaagcaa aaattacggc
+      301 tcctcgctgc agacctgcga gcagggaaac gctcccctca cagacgcgtt gaattgtccc
+      361 cacgccgcgc ccctgtagag aaatataaaa ggttaggatt tgccactgag gttcttcttt
+      421 catatacttc cttttaaaat cttgctagga tacagttctc acatcacatc cgaacataaa
+      481 caaccatggc cgaccaagcg acgcccaacc tgccatcacg agatttcgat tccacggccg
+      541 ccttctatga aaggttgggc ttcggaatcg ttttccggga cgccggctgg atgatcctcc
+      601 agcgcgggga tctcaagctg gagttcttcg cccaccccgg gctcgatccc ctcgcgagtt
+      661 ggttcagctg ctgcctgagg ctggacgacc tcgcggagtt ctaccggcag tgcaaatccg
+      721 tcggcatcca ggaaaccagc agcggctatc cgcgcatcca tgcccccgaa ctgcaggagt
+      781 ggggaggcac gatggccgct ttggtcgacc cggacgggac gctcctgcgc ctgatacaga
+      841 acgaattgct tgcaggcatc tcatgatcag tactgacaat aaaaagattc ttgttttcaa
+      901 gaacttgtca tttgtatagt ttttttatat tgtagttgtt ctattttaat caaatgttag
+      961 cgtgatttat attttttttc gcctcgacat catctgccca gatgcgaagt taagtgcgca
+     1021 gaaagtaata tcatgcgtca atcgtatgtg aatgctggtc gctatactgc tgtcgattcg
+     1081 atactaacgc cgccatccag tgtcgaaaac gagctctcga gaacccttaa tataacttcg
+     1141 tataatgtat gctatacgaa gttattaggt gatatcagat ccactagtgg cctatgcggc
+     1201 cgcggatctg ccggtctccc tatagtgagt cgtattaatt tcgataagcc aggttaacct
+     1261 gcattaatga atcggccaac gcgcggggag aggcggtttg cgtattgggc gctcttccgc
+     1321 ttcctcgctc actgactcgc tgcgctcggt cgttcggctg cggcgagcgg tatcagctca
+     1381 ctcaaaggcg gtaatacggt tatccacaga atcaggggat aacgcaggaa agaacatgtg
+     1441 agcaaaaggc cagcaaaagg ccaggaaccg taaaaaggcc gcgttgctgg cgtttttcca
+     1501 taggctccgc ccccctgacg agcatcacaa aaatcgacgc tcaagtcaga ggtggcgaaa
+     1561 cccgacagga ctataaagat accaggcgtt tccccctgga agctccctcg tgcgctctcc
+     1621 tgttccgacc ctgccgctta ccggatacct gtccgccttt ctcccttcgg gaagcgtggc
+     1681 gctttctcaa tgctcacgct gtaggtatct cagttcggtg taggtcgttc gctccaagct
+     1741 gggctgtgtg cacgaacccc ccgttcagcc cgaccgctgc gccttatccg gtaactatcg
+     1801 tcttgagtcc aacccggtaa gacacgactt atcgccactg gcagcagcca ctggtaacag
+     1861 gattagcaga gcgaggtatg taggcggtgc tacagagttc ttgaagtggt ggcctaacta
+     1921 cggctacact agaaggacag tatttggtat ctgcgctctg ctgaagccag ttaccttcgg
+     1981 aaaaagagtt ggtagctctt gatccggcaa acaaaccacc gctggtagcg gtggtttttt
+     2041 tgtttgcaag cagcagatta cgcgcagaaa aaaaggatct caagaagatc ctttgatctt
+     2101 ttctacgggg tctgacgctc agtggaacga aaactcacgt taagggattt tggtcatgag
+     2161 attatcaaaa aggatcttca cctagatcct tttaaattaa aaatgaagtt ttaaatcaat
+     2221 ctaaagtata tatgagtaaa cttggtctga cagttaccaa tgcttaatca gtgaggcacc
+     2281 tatctcagcg atctgtctat ttcgttcatc catagttgcc tgactccccg tcgtgtagat
+     2341 aactacgata cgggagggct taccatctgg ccccagtgct gcaatgatac cgcgagaccc
+     2401 acgctcaccg gctccagatt tatcagcaat aaaccagcca gccggaaggg ccgagcgcag
+     2461 aagtggtcct gcaactttat ccgcctccat ccagtctatt aattgttgcc gggaagctag
+     2521 agtaagtagt tcgccagtta atagtttgcg caacgttgtt gccattgcta caggcatcgt
+     2581 ggtgtcacgc tcgtcgtttg gtatggcttc attcagctcc ggttcccaac gatcaaggcg
+     2641 agttacatga tcccccatgt tgtgcaaaaa agcggttagc tccttcggtc ctccgatcgt
+     2701 tgtcagaagt aagttggccg cagtgttatc actcatggtt atggcagcac tgcataattc
+     2761 tcttactgtc atgccatccg taagatgctt ttctgtgact ggtgagtact caaccaagtc
+     2821 attctgagaa tagtgtatgc ggcgaccgag ttgctcttgc ccggcgtcaa tacgggataa
+     2881 taccgcgcca catagcagaa ctttaaaagt gctcatcatt ggaaaacgtt cttcggggcg
+     2941 aaaactctca aggatcttac cgctgttgag atccagttcg atgtaaccca ctcgtgcacc
+     3001 caactgatct tcagcatctt ttactttcac cagcgtttct gggtgagcaa aaacaggaag
+     3061 gcaaaatgcc gcaaaaaagg gaataagggc gacacggaaa tgttgaatac tcatactctt
+     3121 cctttttcaa tattattgaa gcatttatca gggttattgt ctcatgagcg gatacatatt
+     3181 tgaatgtatt tagaaaaata aacaaatagg ggttccgcgc acatttcccc gaaaagtgcc
+     3241 acctgacgtc taagaaacca ttattatcat gacattaacc tataaaaata ggcgtatcac
+     3301 gaggcccttt cgtctcgcgc gtttcggtga tgacggtgaa aacctctgac acatgcagct
+     3361 cccggagacg gtcacagctt gtctgtaagc ggatgccggg agcagacaag cccgtcaggg
+     3421 cgcgtcagcg ggtgttggcg ggtgtcgggg ctggcttaac tatgcggcat cagagcagat
+     3481 tgtactgaga gtgcaccata tggacatatt gtcgttagaa cgcggctaca attaatacat
+     3541 aaccttatgt atcatacaca tacgatttag gtgacactat
+//
