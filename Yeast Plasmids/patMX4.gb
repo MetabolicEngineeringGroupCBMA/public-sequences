@@ -1,0 +1,51 @@
+LOCUS       .                       1100 bp    DNA     circular SYN 20-JAN-2015
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=kgZ1RtQaQS07jDcMdg5-8uheQFI 2026-04-16T16:52:54
+FEATURES             Location/Qualifiers
+     terminator      903..1100
+                     /note="Ashbya gossypii TEF terminator"
+                     /label="TEF terminator"
+     promoter        1..344
+                     /note="Ashbya gossypii TEF promoter"
+                     /label="TEF promoter"
+     CDS             397..852
+                     /product="phosphinothricin acetyltransferase"
+                     /note="confers resistance to bialaphos"
+                     /gene="Streptomyces viridochromogenes pat1"
+                     /transl_table=1
+                     /translation="MAAVCDIVNHYIETSTVNFRTEPQTPQEWIDDLERLQDRYPWLVA
+                     EVEGVVAGIAYAGPWKARNAYDWTVESTVYVSHRHQRLGLGSTLYTHLLKSMETQGFKS
+                     VVAVIGLPNDPSVRLHEALGYTARGTLRAAGYKHGGWHDVGFWQRDF*"
+                     /codon_start=1
+                     /label="BlpR"
+     gene            1..1100
+                     /product="yeast selectable marker conferring bialaphos
+                     resistance (Goldstein and McCusker, 1999)"
+                     /label="patMX4"
+ORIGIN
+        1 gacatggagg cccagaatac cctccttgac agtcttgacg tgcgcagctc aggggcatga
+       61 tgtgactgtc gcccgtacat ttagcccata catccccatg tataatcatt tgcatccata
+      121 cattttgatg gccgcacggc gcgaagcaaa aattacggct cctcgctgca gacctgcgag
+      181 cagggaaacg ctcccctcac agacgcgttg aattgtcccc acgccgcgcc cctgtagaga
+      241 aatataaaag gttaggattt gccactgagg ttcttctttc atatacttcc ttttaaaatc
+      301 ttgctaggat acagttctca catcacatcc gaacataaac aaccgggtag cccagaacga
+      361 cgcccggtcg agatccgtcc cgccaccgcc gccgacatgg cggcggtctg cgacatcgtc
+      421 aatcactaca tcgagacgag cacggtcaac ttccgtacgg agccgcagac tccgcaggag
+      481 tggatcgacg acctggagcg cctccaggac cgctacccct ggctcgtcgc cgaggtggag
+      541 ggcgtcgtcg ccggcatcgc ctacgccggc ccctggaagg cccgcaacgc ctacgactgg
+      601 accgtcgagt cgacggtgta cgtctcccac cggcaccagc ggctcggact gggctccacc
+      661 ctctacaccc acctgctgaa gtccatggag acccagggct tcaagagcgt ggtcgccgtc
+      721 atcggactgc ccaacgaccc gagcgtgcgc ctgcacgagg cgctcggata caccgcgcgc
+      781 gggacgctgc gggcagccgg ctacaagcac gggggctggc acgacgtggg gttctggcag
+      841 cgcgacttct agctgccggc cccgccccgc cccgtccggc ccgtcacaca gatctaatca
+      901 atactgacaa taaaaagatt cttgttttca agaacttgtc atttgtatag tttttttata
+      961 ttgtagttgt tctattttaa tcaaatgtta gcgtgattta tatttttttt cgcctcgaca
+     1021 tcatctgccc agatgcgaag ttaagtgcgc agaaagtaat atcatgcgtc aatcgtatgt
+     1081 gaatgctggt cgctatactg
+//

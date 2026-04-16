@@ -1,0 +1,50 @@
+LOCUS       .                        922 bp    DNA     circular SYN 24-DEC-2013
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=0KHW30eU7I6pJqcxGet3potAni8 2026-04-16T16:52:57
+FEATURES             Location/Qualifiers
+     CDS             345..719
+                     /product="antibiotic-binding protein"
+                     /note="confers resistance to bleomycin, phleomycin, and
+                     Zeocin™"
+                     /gene="Sh&nbsp;ble from&nbsp;Streptoalloteichus
+                     hindustanus"
+                     /transl_table=1
+                     /translation="MAKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDD
+                     VTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGR
+                     EFALRDPAGNCVHFVAEEQD*"
+                     /codon_start=1
+                     /label="BleoR"
+     promoter        1..344
+                     /note="Ashbya gossypii TEF promoter"
+                     /label="TEF promoter"
+     terminator      725..922
+                     /note="Ashbya gossypii TEF terminator"
+                     /label="TEF terminator"
+     gene            1..922
+                     /note="yeast selectable marker conferring phleomycin
+                     resistance"
+                     /label="bleMX6"
+ORIGIN
+        1 gacatggagg cccagaatac cctccttgac agtcttgacg tgcgcagctc aggggcatga
+       61 tgtgactgtc gcccgtacat ttagcccata catccccatg tataatcatt tgcatccata
+      121 cattttgatg gccgcacggc gcgaagcaaa aattacggct cctcgctgca gacctgcgag
+      181 cagggaaacg ctcccctcac agacgcgttg aattgtcccc acgccgcgcc cctgtagaga
+      241 aatataaaag gttaggattt gccactgagg ttcttctttc atatacttcc ttttaaaatc
+      301 ttgctaggat acagttctca catcacatcc gaacataaac aaccatggcc aagttgacca
+      361 gtgccgttcc ggtgctcacc gcgcgcgacg tcgccggagc ggtcgagttc tggaccgacc
+      421 ggctcgggtt ctcccgggac ttcgtggagg acgacttcgc cggtgtggtc cgggacgacg
+      481 tgaccctgtt catcagcgcg gtccaggacc aggtggtgcc ggacaacacc ctggcctggg
+      541 tgtgggtgcg cggcctggac gagctgtacg ccgagtggtc ggaggtcgtg tccacgaact
+      601 tccgggacgc ctccgggccg gccatgaccg agatcggcga gcagccgtgg gggcgggagt
+      661 tcgccctgcg cgacccggcc ggcaactgcg tgcacttcgt ggccgaggag caggactgat
+      721 cagtactgac aataaaaaga ttcttgtttt caagaacttg tcatttgtat agttttttta
+      781 tattgtagtt gttctatttt aatcaaatgt tagcgtgatt tatatttttt ttcgcctcga
+      841 catcatctgc ccagatgcga agttaagtgc gcagaaagta atatcatgcg tcaatcgtat
+      901 gtgaatgctg gtcgctatac tg
+//

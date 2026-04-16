@@ -1,0 +1,137 @@
+LOCUS       Linearize               3593 bp    DNA     circular SYN 24-OCT-2017
+DEFINITION  Linearize with SacI, PmeI, or BstXI for integration at the AOX1
+            locus..
+ACCESSION   Linearize
+VERSION     Linearize
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=qiUJo7Bj5wJQVyhOfOmSo3j26oU 2026-04-16T16:53:06
+FEATURES             Location/Qualifiers
+     promoter        1703..2089
+                     /gene="S. cerevisiae TEF1"
+                     /note="promoter for EF-1α"
+                     /label="TEF1 promoter"
+     promoter        2..940
+                     /gene="Pichia pastoris AOX1"
+                     /note="inducible promoter, regulated by methanol"
+                     /label="AOX1 promoter"
+     rep_origin      complement(2925..3513)
+                     /direction=LEFT
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /label="ori"
+     CDS             2163..2537
+                     /product="antibiotic-binding protein"
+                     /transl_table=1
+                     /gene="Sh&nbsp;ble from&nbsp;Streptoalloteichus
+                     hindustanus"
+                     /note="confers resistance to bleomycin, phleomycin, and
+                     Zeocin™"
+                     /codon_start=1
+                     /translation="MAKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDD
+                     VTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGR
+                     EFALRDPAGNCVHFVAEEQD*"
+                     /label="BleoR"
+     CDS             join(941..997,998..1195,1196..1207)
+                     /parts="1:presequence;2:pro region"
+                     /product="N-terminal secretion signal from S. cerevisiae
+                     alpha-factor"
+                     /transl_table=1
+                     /gene="MFα1"
+                     /note="Cleavage by the Kex2 protease occurs after the
+                     dibasic KR sequence. The EA dipeptides are then removed by
+                     dipeptidyl aminopeptidase A."
+                     /codon_start=1
+                     /translation="MRFPSIFTAVLFAASSALA,APVNTTTEDETAQIPAEAVIGYSDL
+                     EGDFDVAVLPFSNSTNNGLLFINTTIASIAAKEEGVSLEKR,EAEA"
+                     /label="α-factor secretion signal"
+     terminator      2603..2850
+                     /gene="S. cerevisiae CYC1"
+                     /note="transcription terminator for CYC1"
+                     /label="CYC1 terminator"
+     terminator      1417..1663
+                     /gene="Pichia pastoris AOX1"
+                     /note="transcription terminator for AOX1"
+                     /label="AOX1 terminator"
+     promoter        2097..2144
+                     /note="synthetic bacterial promoter&nbsp;"
+                     /label="EM7 promoter"
+     CDS             1275..1304
+                     /product="Myc (human c-Myc oncogene) epitope tag"
+                     /transl_table=1
+                     /codon_start=1
+                     /translation="EQKLISEEDL"
+                     /label="Myc"
+     CDS             1320..1337
+                     /product="6xHis affinity tag"
+                     /transl_table=1
+                     /codon_start=1
+                     /translation="HHHHHH"
+                     /label="6xHis"
+     misc_feature    1208..1276
+                     /note="multiple cloning site"
+                     /label="MCS"
+ORIGIN
+        1 agatctaaca tccaaagacg aaaggttgaa tgaaaccttt ttgccatccg acatccacag
+       61 gtccattctc acacataagt gccaaacgca acaggagggg atacactagc agcagaccgt
+      121 tgcaaacgca ggacctccac tcctcttctc ctcaacaccc acttttgcca tcgaaaaacc
+      181 agcccagtta ttgggcttga ttggagctcg ctcattccaa ttccttctat taggctacta
+      241 acaccatgac tttattagcc tgtctatcct ggcccccctg gcgaggttca tgtttgttta
+      301 tttccgaatg caacaagctc cgcattacac ccgaacatca ctccagatga gggctttctg
+      361 agtgtggggt caaatagttt catgttcccc aaatggccca aaactgacag tttaaacgct
+      421 gtcttggaac ctaatatgac aaaagcgtga tctcatccaa gatgaactaa gtttggttcg
+      481 ttgaaatgct aacggccagt tggtcaaaaa gaaacttcca aaagtcggca taccgtttgt
+      541 cttgtttggt attgattgac gaatgctcaa aaataatctc attaatgctt agcgcagtct
+      601 ctctatcgct tctgaacccc ggtgcacctg tgccgaaacg caaatgggga aacacccgct
+      661 ttttggatga ttatgcattg tctccacatt gtatgcttcc aagattctgg tgggaatact
+      721 gctgatagcc taacgttcat gatcaaaatt taactgttct aacccctact tgacagcaat
+      781 atataaacag aaggaagctg ccctgtctta aacctttttt tttatcatca ttattagctt
+      841 actttcataa ttgcgactgg ttccaattga caagcttttg attttaacga cttttaacga
+      901 caacttgaga agatcaaaaa acaactaatt attcgaaacg atgagatttc cttcaatttt
+      961 tactgctgtt ttattcgcag catcctccgc attagctgct ccagtcaaca ctacaacaga
+     1021 agatgaaacg gcacaaattc cggctgaagc tgtcatcggt tactcagatt tagaagggga
+     1081 tttcgatgtt gctgttttgc cattttccaa cagcacaaat aacgggttat tgtttataaa
+     1141 tactactatt gccagcattg ctgctaaaga agaaggggta tctctcgaga aaagagaggc
+     1201 tgaagctgaa ttcacgtggc ccagccggcc gtctcggatc ggtacctcga gccgcggcgg
+     1261 ccgccagctt tctagaacaa aaactcatct cagaagagga tctgaatagc gccgtcgacc
+     1321 atcatcatca tcatcattga gtttgtagcc ttagacatga ctgttcctca gttcaagttg
+     1381 ggcacttacg agaagaccgg tcttgctaga ttctaatcaa gaggatgtca gaatgccatt
+     1441 tgcctgagag atgcaggctt catttttgat acttttttat ttgtaaccta tatagtatag
+     1501 gatttttttt gtcattttgt ttcttctcgt acgagcttgc tcctgatcag cctatctcgc
+     1561 agctgatgaa tatcttgtgg taggggtttg ggaaaatcat tcgagtttga tgtttttctt
+     1621 ggtatttccc actcctcttc agagtacaga agattaagtg agaccttcgt ttgtgcggat
+     1681 cccccacaca ccatagcttc aaaatgtttc tactcctttt ttactcttcc agattttctc
+     1741 ggactccgcg catcgccgta ccacttcaaa acacccaagc acagcatact aaattttccc
+     1801 tctttcttcc tctagggtgt cgttaattac ccgtactaaa ggtttggaaa agaaaaaaga
+     1861 gaccgcctcg tttctttttc ttcgtcgaaa aaggcaataa aaatttttat cacgtttctt
+     1921 tttcttgaaa tttttttttt tagttttttt ctctttcagt gacctccatt gatatttaag
+     1981 ttaataaacg gtcttcaatt tctcaagttt cagtttcatt tttcttgttc tattacaact
+     2041 ttttttactt cttgttcatt agaaagaaag catagcaatc taatctaagg ggcggtgttg
+     2101 acaattaatc atcggcatag tatatcggca tagtataata cgacaaggtg aggaactaaa
+     2161 ccatggccaa gttgaccagt gccgttccgg tgctcaccgc gcgcgacgtc gccggagcgg
+     2221 tcgagttctg gaccgaccgg ctcgggttct cccgggactt cgtggaggac gacttcgccg
+     2281 gtgtggtccg ggacgacgtg accctgttca tcagcgcggt ccaggaccag gtggtgccgg
+     2341 acaacaccct ggcctgggtg tgggtgcgcg gcctggacga gctgtacgcc gagtggtcgg
+     2401 aggtcgtgtc cacgaacttc cgggacgcct ccgggccggc catgaccgag atcggcgagc
+     2461 agccgtgggg gcgggagttc gccctgcgcg acccggccgg caactgcgtg cacttcgtgg
+     2521 ccgaggagca ggactgacac gtccgacggc ggcccacggg tcccaggcct cggagatccg
+     2581 tccccctttt cctttgtcga tatcatgtaa ttagttatgt cacgcttaca ttcacgccct
+     2641 ccccccacat ccgctctaac cgaaaaggaa ggagttagac aacctgaagt ctaggtccct
+     2701 atttattttt ttatagttat gttagtatta agaacgttat ttatatttca aatttttctt
+     2761 ttttttctgt acagacgcgt gtacgcatgt aacattatac tgaaaacctt gcttgagaag
+     2821 gttttgggac gctcgaaggc tttaatttgc aagctggaga ccaacatgtg agcaaaaggc
+     2881 cagcaaaagg ccaggaaccg taaaaaggcc gcgttgctgg cgtttttcca taggctccgc
+     2941 ccccctgacg agcatcacaa aaatcgacgc tcaagtcaga ggtggcgaaa cccgacagga
+     3001 ctataaagat accaggcgtt tccccctgga agctccctcg tgcgctctcc tgttccgacc
+     3061 ctgccgctta ccggatacct gtccgccttt ctcccttcgg gaagcgtggc gctttctcaa
+     3121 tgctcacgct gtaggtatct cagttcggtg taggtcgttc gctccaagct gggctgtgtg
+     3181 cacgaacccc ccgttcagcc cgaccgctgc gccttatccg gtaactatcg tcttgagtcc
+     3241 aacccggtaa gacacgactt atcgccactg gcagcagcca ctggtaacag gattagcaga
+     3301 gcgaggtatg taggcggtgc tacagagttc ttgaagtggt ggcctaacta cggctacact
+     3361 agaaggacag tatttggtat ctgcgctctg ctgaagccag ttaccttcgg aaaaagagtt
+     3421 ggtagctctt gatccggcaa acaaaccacc gctggtagcg gtggtttttt tgtttgcaag
+     3481 cagcagatta cgcgcagaaa aaaaggatct caagaagatc ctttgatctt ttctacgggg
+     3541 tctgacgctc agtggaacga aaactcacgt taagggattt tggtcatgag atc
+//

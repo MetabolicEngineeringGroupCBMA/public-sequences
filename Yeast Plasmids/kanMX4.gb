@@ -1,0 +1,59 @@
+LOCUS       .                       1429 bp    DNA     circular SYN 12-JAN-2015
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=E-lQjPBxTqDEk5YuJcE2yF_OZ_k 2026-04-16T16:53:07
+FEATURES             Location/Qualifiers
+     gene            36..1392
+                     /note="yeast selectable marker conferring kanamycin
+                     resistance (Wach et al., 1994)"
+                     /label="kanMX"
+     CDS             380..1189
+                     /product="aminoglycoside phosphotransferase"
+                     /note="confers resistance to kanamycin in bacteria or G418
+                     (Geneticin®) in eukaryotes"
+                     /gene="aph(3')-Ia"
+                     /transl_table=1
+                     /translation="MGKEKTHVSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLYGKP
+                     DAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPGKTA
+                     FQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVDASD
+                     FDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVGIAD
+                     RYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF*"
+                     /codon_start=1
+                     /label="KanR"
+     promoter        36..379
+                     /note="Ashbya gossypii TEF promoter"
+                     /label="TEF promoter"
+     terminator      1195..1392
+                     /note="Ashbya gossypii TEF terminator"
+                     /label="TEF terminator"
+ORIGIN
+        1 agcttgcctc gtccccgccg ggtcacccgg ccagcgacat ggaggcccag aataccctcc
+       61 ttgacagtct tgacgtgcgc agctcagggg catgatgtga ctgtcgcccg tacatttagc
+      121 ccatacatcc ccatgtataa tcatttgcat ccatacattt tgatggccgc acggcgcgaa
+      181 gcaaaaatta cggctcctcg ctgcagacct gcgagcaggg aaacgctccc ctcacagacg
+      241 cgttgaattg tccccacgcc gcgcccctgt agagaaatat aaaaggttag gatttgccac
+      301 tgaggttctt ctttcatata cttcctttta aaatcttgct aggatacagt tctcacatca
+      361 catccgaaca taaacaacca tgggtaagga aaagactcac gtttcgaggc cgcgattaaa
+      421 ttccaacatg gatgctgatt tatatgggta taaatgggct cgcgataatg tcgggcaatc
+      481 aggtgcgaca atctatcgat tgtatgggaa gcccgatgcg ccagagttgt ttctgaaaca
+      541 tggcaaaggt agcgttgcca atgatgttac agatgagatg gtcagactaa actggctgac
+      601 ggaatttatg cctcttccga ccatcaagca ttttatccgt actcctgatg atgcatggtt
+      661 actcaccact gcgatccccg gcaaaacagc attccaggta ttagaagaat atcctgattc
+      721 aggtgaaaat attgttgatg cgctggcagt gttcctgcgc cggttgcatt cgattcctgt
+      781 ttgtaattgt ccttttaaca gcgatcgcgt atttcgtctc gctcaggcgc aatcacgaat
+      841 gaataacggt ttggttgatg cgagtgattt tgatgacgag cgtaatggct ggcctgttga
+      901 acaagtctgg aaagaaatgc ataagctttt gccattctca ccggattcag tcgtcactca
+      961 tggtgatttc tcacttgata accttatttt tgacgagggg aaattaatag gttgtattga
+     1021 tgttggacga gtcggaatcg cagaccgata ccaggatctt gccatcctat ggaactgcct
+     1081 cggtgagttt tctccttcat tacagaaacg gctttttcaa aaatatggta ttgataatcc
+     1141 tgatatgaat aaattgcagt ttcatttgat gctcgatgag tttttctaat cagtactgac
+     1201 aataaaaaga ttcttgtttt caagaacttg tcatttgtat agttttttta tattgtagtt
+     1261 gttctatttt aatcaaatgt tagcgtgatt tatatttttt ttcgcctcga catcatctgc
+     1321 ccagatgcga agttaagtgc gcagaaagta atatcatgcg tcaatcgtat gtgaatgctg
+     1381 gtcgctatac tgctgtcgat tcgatactaa cgccgccatc cagtgtcga
+//

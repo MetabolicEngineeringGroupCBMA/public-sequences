@@ -1,0 +1,53 @@
+LOCUS       .                       1123 bp    DNA     circular SYN 24-DEC-2013
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=XF7rLDC6Y1heI6UXAq99H_HgAVk 2026-04-16T16:53:03
+FEATURES             Location/Qualifiers
+     CDS             345..920
+                     /product="nourseothricin acetyltransferase"
+                     /note="confers resistance to&nbsp;nourseothricin"
+                     /gene="Streptomyces noursei nat1"
+                     /transl_table=1
+                     /protein_id=""
+                     /translation="MGTTLDDTAYRYRTSVPGDAEAIEALDGSFTTDTVFRVTATGDGF
+                     TLREVPVDPPLTKVFPDDESDDESDDGEDGDPDSRTFVAYGDDGDLAGFVVISYSAWNR
+                     RLTVEDIEVAPEHRGHGVGRALMGLATEFAGERGAGHLWLEVTNVNAPAIHAYRRMGFT
+                     LCGLDTALYDGTASDGERQALYMSMPCP*"
+                     /codon_start=1
+                     /label="NrsR"
+     promoter        1..344
+                     /note="Ashbya gossypii TEF promoter"
+                     /label="TEF promoter"
+     terminator      926..1123
+                     /note="Ashbya gossypii TEF terminator"
+                     /label="TEF terminator"
+     gene            1..1123
+                     /note="yeast selectable marker conferring nourseothricin
+                     resistance"
+                     /label="natMX6"
+ORIGIN
+        1 gacatggagg cccagaatac cctccttgac agtcttgacg tgcgcagctc aggggcatga
+       61 tgtgactgtc gcccgtacat ttagcccata catccccatg tataatcatt tgcatccata
+      121 cattttgatg gccgcacggc gcgaagcaaa aattacggct cctcgctgca gacctgcgag
+      181 cagggaaacg ctcccctcac agacgcgttg aattgtcccc acgccgcgcc cctgtagaga
+      241 aatataaaag gttaggattt gccactgagg ttcttctttc atatacttcc ttttaaaatc
+      301 ttgctaggat acagttctca catcacatcc gaacataaac aaccatgggt accactcttg
+      361 acgacacggc ttaccggtac cgcaccagtg tcccggggga cgccgaggcc atcgaggcac
+      421 tggatgggtc cttcaccacc gacaccgtct tccgcgtcac cgccaccggg gacggcttca
+      481 ccctgcggga ggtgccggtg gacccgcccc tgaccaaggt gttccccgac gacgaatcgg
+      541 acgacgaatc ggacgacggg gaggacggcg acccggactc ccggacgttc gtcgcgtacg
+      601 gggacgacgg cgacctggcg ggcttcgtgg tcatctcgta ctcggcgtgg aaccgccggc
+      661 tgaccgtcga ggacatcgag gtcgccccgg agcaccgggg gcacggggtc gggcgcgcgt
+      721 tgatggggct cgcgacggag ttcgccggcg agcggggcgc cgggcacctc tggctggagg
+      781 tcaccaacgt caacgcaccg gcgatccacg cgtaccggcg gatggggttc accctctgcg
+      841 gcctggacac cgccctgtac gacggcaccg cctcggacgg cgagcggcag gcgctctaca
+      901 tgagcatgcc ctgcccctaa tcagtactga caataaaaag attcttgttt tcaagaactt
+      961 gtcatttgta tagttttttt atattgtagt tgttctattt taatcaaatg ttagcgtgat
+     1021 ttatattttt tttcgcctcg acatcatctg cccagatgcg aagttaagtg cgcagaaagt
+     1081 aatatcatgc gtcaatcgta tgtgaatgct ggtcgctata ctg
+//

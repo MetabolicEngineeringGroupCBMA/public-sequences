@@ -1,0 +1,112 @@
+LOCUS       Linearize               2884 bp    DNA     circular SYN 24-OCT-2017
+DEFINITION  Linearize within the GAP promoter for integration..
+ACCESSION   Linearize
+VERSION     Linearize
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=WSsjEFh6M_wtR-PbOxBn3lgLJUE 2026-04-16T16:53:07
+FEATURES             Location/Qualifiers
+     promoter        966..1377
+                     /gene="S. cerevisiae TEF1"
+                     /note="promoter for&nbsp;EF-1α"
+                     /label="TEF1 promoter"
+     promoter        7..483
+                     /note="promoter for Pichia pastoris
+                     glyceraldehyde-3-phosphate dehydrogenase"
+                     /label="GAP promoter"
+     CDS             609..626
+                     /product="6xHis affinity tag"
+                     /transl_table=1
+                     /codon_start=1
+                     /translation="HHHHHH"
+                     /label="6xHis"
+     CDS             564..593
+                     /product="Myc (human c-Myc oncogene) epitope tag"
+                     /transl_table=1
+                     /codon_start=1
+                     /translation="EQKLISEEDL"
+                     /label="Myc"
+     promoter        1384..1431
+                     /note="synthetic bacterial promoter&nbsp;"
+                     /label="EM7 promoter"
+     terminator      705..951
+                     /gene="Pichia pastoris AOX1"
+                     /note="transcription terminator for AOX1"
+                     /label="AOX1 terminator"
+     terminator      1890..2137
+                     /gene="S. cerevisiae CYC1"
+                     /note="transcription terminator for CYC1"
+                     /label="CYC1 terminator"
+     CDS             1450..1824
+                     /product="antibiotic-binding protein"
+                     /transl_table=1
+                     /gene="Sh&nbsp;ble from&nbsp;Streptoalloteichus
+                     hindustanus"
+                     /note="confers resistance to bleomycin, phleomycin, and
+                     Zeocin™"
+                     /codon_start=1
+                     /translation="MAKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDD
+                     VTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGR
+                     EFALRDPAGNCVHFVAEEQD*"
+                     /label="BleoR"
+     rep_origin      complement(2212..2800)
+                     /direction=LEFT
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /label="ori"
+     misc_feature    484..563
+                     /note="multiple cloning site"
+                     /label="MCS"
+ORIGIN
+        1 agatcttttt tgtagaaatg tcttggtgtc ctcgtccaat caggtagcca tctctgaaat
+       61 atctggctcc gttgcaactc cgaacgacct gctggcaacg taaaattctc cggggtaaaa
+      121 cttaaatgtg gagtaatgga accagaaacg tctcttccct tctctctcct tccaccgccc
+      181 gttaccgtcc ctaggaaatt ttactctgct ggagagcttc ttctacggcc cccttgcagc
+      241 aatgctcttc ccagcattac gttgcgggta aaacggaggt cgtgtacccg acctagcagc
+      301 ccagggatgg aaaagtcccg gccgtcgctg gcaataatag cgggcggacg catgtcatga
+      361 gattattgga aaccaccaga atcgaatata aaaggcgaac acctttccca attttggttt
+      421 ctcctgaccc aaagacttta aatttaattt atttgtccct atttcaatca attgaacaac
+      481 tatttcgaaa cgaggaattc acgtggccca gccggccgtc tcggatcggt acctcgagcc
+      541 gcggcggccg ccagcttggg cccgaacaaa aactcatctc agaagaggat ctgaatagcg
+      601 ccgtcgacca tcatcatcat catcattgag ttttagcctt agacatgact gttcctcagt
+      661 tcaagttggg cacttacgag aagaccggtc ttgctagatt ctaatcaaga ggatgtcaga
+      721 atgccatttg cctgagagat gcaggcttca tttttgatac ttttttattt gtaacctata
+      781 tagtatagga ttttttttgt cattttgttt cttctcgtac gagcttgctc ctgatcagcc
+      841 tatctcgcag ctgatgaata tcttgtggta ggggtttggg aaaatcattc gagtttgatg
+      901 tttttcttgg tatttcccac tcctcttcag agtacagaag attaagtgag accttcgttt
+      961 gtgcggatcc cccacacacc atagcttcaa aatgtttcta ctcctttttt actcttccag
+     1021 attttctcgg actccgcgca tcgccgtacc acttcaaaac acccaagcac agcatactaa
+     1081 attttccctc tttcttcctc tagggtgtcg ttaattaccc gtactaaagg tttggaaaag
+     1141 aaaaaagaga ccgcctcgtt tctttttctt cgtcgaaaaa ggcaataaaa atttttatca
+     1201 cgtttctttt tcttgaaatt ttttttttta gtttttttct ctttcagtga cctccattga
+     1261 tatttaagtt aataaacggt cttcaatttc tcaagtttca gtttcatttt tcttgttcta
+     1321 ttacaacttt ttttacttct tgttcattag aaagaaagca tagcaatcta atctaagggc
+     1381 ggtgttgaca attaatcatc ggcatagtat atcggcatag tataatacga caaggtgagg
+     1441 aactaaacca tggccaagtt gaccagtgcc gttccggtgc tcaccgcgcg cgacgtcgcc
+     1501 ggagcggtcg agttctggac cgaccggctc gggttctccc gggacttcgt ggaggacgac
+     1561 ttcgccggtg tggtccggga cgacgtgacc ctgttcatca gcgcggtcca ggaccaggtg
+     1621 gtgccggaca acaccctggc ctgggtgtgg gtgcgcggcc tggacgagct gtacgccgag
+     1681 tggtcggagg tcgtgtccac gaacttccgg gacgcctccg ggccggccat gaccgagatc
+     1741 ggcgagcagc cgtgggggcg ggagttcgcc ctgcgcgacc cggccggcaa ctgcgtgcac
+     1801 ttcgtggccg aggagcagga ctgacacgtc cgacggcggc ccacgggtcc caggcctcgg
+     1861 agatccgtcc cccttttcct ttgtcgatat catgtaatta gttatgtcac gcttacattc
+     1921 acgccctccc cccacatccg ctctaaccga aaaggaagga gttagacaac ctgaagtcta
+     1981 ggtccctatt tattttttta tagttatgtt agtattaaga acgttattta tatttcaaat
+     2041 ttttcttttt tttctgtaca gacgcgtgta cgcatgtaac attatactga aaaccttgct
+     2101 tgagaaggtt ttgggacgct cgaaggcttt aatttgcaag ctggagacca acatgtgagc
+     2161 aaaaggccag caaaaggcca ggaaccgtaa aaaggccgcg ttgctggcgt ttttccatag
+     2221 gctccgcccc cctgacgagc atcacaaaaa tcgacgctca agtcagaggt ggcgaaaccc
+     2281 gacaggacta taaagatacc aggcgtttcc ccctggaagc tccctcgtgc gctctcctgt
+     2341 tccgaccctg ccgcttaccg gatacctgtc cgcctttctc ccttcgggaa gcgtggcgct
+     2401 ttctcaatgc tcacgctgta ggtatctcag ttcggtgtag gtcgttcgct ccaagctggg
+     2461 ctgtgtgcac gaaccccccg ttcagcccga ccgctgcgcc ttatccggta actatcgtct
+     2521 tgagtccaac ccggtaagac acgacttatc gccactggca gcagccactg gtaacaggat
+     2581 tagcagagcg aggtatgtag gcggtgctac agagttcttg aagtggtggc ctaactacgg
+     2641 ctacactaga aggacagtat ttggtatctg cgctctgctg aagccagtta ccttcggaaa
+     2701 aagagttggt agctcttgat ccggcaaaca aaccaccgct ggtagcggtg gtttttttgt
+     2761 ttgcaagcag cagattacgc gcagaaaaaa aggatctcaa gaagatcctt tgatcttttc
+     2821 tacggggtct gacgctcagt ggaacgaaaa ctcacgttaa gggattttgg tcatgcatga
+     2881 gatc
+//

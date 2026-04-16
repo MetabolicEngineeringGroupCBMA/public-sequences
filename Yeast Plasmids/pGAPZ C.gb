@@ -1,0 +1,112 @@
+LOCUS       Linearize               2883 bp    DNA     circular SYN 24-OCT-2017
+DEFINITION  Linearize within the GAP promoter for integration..
+ACCESSION   Linearize
+VERSION     Linearize
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+            .
+COMMENT     pydna cdseguid=I-EeSY53hSKI3nByidWze9y1vAQ 2026-04-16T16:52:59
+FEATURES             Location/Qualifiers
+     rep_origin      complement(2211..2799)
+                     /direction=LEFT
+                     /note="high-copy-number ColE1/pMB1/pBR322/pUC origin of
+                     replication"
+                     /label="ori"
+     promoter        7..483
+                     /note="promoter for Pichia pastoris
+                     glyceraldehyde-3-phosphate dehydrogenase"
+                     /label="GAP promoter"
+     promoter        965..1376
+                     /gene="S. cerevisiae TEF1"
+                     /note="promoter for&nbsp;EF-1α"
+                     /label="TEF1 promoter"
+     CDS             1449..1823
+                     /product="antibiotic-binding protein"
+                     /transl_table=1
+                     /gene="Sh&nbsp;ble from&nbsp;Streptoalloteichus
+                     hindustanus"
+                     /note="confers resistance to bleomycin, phleomycin, and
+                     Zeocin™"
+                     /codon_start=1
+                     /translation="MAKLTSAVPVLTARDVAGAVEFWTDRLGFSRDFVEDDFAGVVRDD
+                     VTLFISAVQDQVVPDNTLAWVWVRGLDELYAEWSEVVSTNFRDASGPAMTEIGEQPWGR
+                     EFALRDPAGNCVHFVAEEQD*"
+                     /label="BleoR"
+     terminator      1889..2136
+                     /gene="S. cerevisiae CYC1"
+                     /note="transcription terminator for CYC1"
+                     /label="CYC1 terminator"
+     terminator      704..950
+                     /gene="Pichia pastoris AOX1"
+                     /note="transcription terminator for AOX1"
+                     /label="AOX1 terminator"
+     promoter        1383..1430
+                     /note="synthetic bacterial promoter&nbsp;"
+                     /label="EM7 promoter"
+     CDS             563..592
+                     /product="Myc (human c-Myc oncogene) epitope tag"
+                     /transl_table=1
+                     /codon_start=1
+                     /translation="EQKLISEEDL"
+                     /label="Myc"
+     CDS             608..625
+                     /product="6xHis affinity tag"
+                     /transl_table=1
+                     /codon_start=1
+                     /translation="HHHHHH"
+                     /label="6xHis"
+     misc_feature    484..562
+                     /note="multiple cloning site"
+                     /label="MCS"
+ORIGIN
+        1 agatcttttt tgtagaaatg tcttggtgtc ctcgtccaat caggtagcca tctctgaaat
+       61 atctggctcc gttgcaactc cgaacgacct gctggcaacg taaaattctc cggggtaaaa
+      121 cttaaatgtg gagtaatgga accagaaacg tctcttccct tctctctcct tccaccgccc
+      181 gttaccgtcc ctaggaaatt ttactctgct ggagagcttc ttctacggcc cccttgcagc
+      241 aatgctcttc ccagcattac gttgcgggta aaacggaggt cgtgtacccg acctagcagc
+      301 ccagggatgg aaaagtcccg gccgtcgctg gcaataatag cgggcggacg catgtcatga
+      361 gattattgga aaccaccaga atcgaatata aaaggcgaac acctttccca attttggttt
+      421 ctcctgaccc aaagacttta aatttaattt atttgtccct atttcaatca attgaacaac
+      481 tatttcgaaa cgaggaattc acgtggccca gccggccgtc tcggatcggt acctcgagcc
+      541 gcggcggccg ccagcttacg tagaacaaaa actcatctca gaagaggatc tgaatagcgc
+      601 cgtcgaccat catcatcatc atcattgagt tttagcctta gacatgactg ttcctcagtt
+      661 caagttgggc acttacgaga agaccggtct tgctagattc taatcaagag gatgtcagaa
+      721 tgccatttgc ctgagagatg caggcttcat ttttgatact tttttatttg taacctatat
+      781 agtataggat tttttttgtc attttgtttc ttctcgtacg agcttgctcc tgatcagcct
+      841 atctcgcagc tgatgaatat cttgtggtag gggtttggga aaatcattcg agtttgatgt
+      901 ttttcttggt atttcccact cctcttcaga gtacagaaga ttaagtgaga ccttcgtttg
+      961 tgcggatccc ccacacacca tagcttcaaa atgtttctac tcctttttta ctcttccaga
+     1021 ttttctcgga ctccgcgcat cgccgtacca cttcaaaaca cccaagcaca gcatactaaa
+     1081 ttttccctct ttcttcctct agggtgtcgt taattacccg tactaaaggt ttggaaaaga
+     1141 aaaaagagac cgcctcgttt ctttttcttc gtcgaaaaag gcaataaaaa tttttatcac
+     1201 gtttcttttt cttgaaattt ttttttttag tttttttctc tttcagtgac ctccattgat
+     1261 atttaagtta ataaacggtc ttcaatttct caagtttcag tttcattttt cttgttctat
+     1321 tacaactttt tttacttctt gttcattaga aagaaagcat agcaatctaa tctaagggcg
+     1381 gtgttgacaa ttaatcatcg gcatagtata tcggcatagt ataatacgac aaggtgagga
+     1441 actaaaccat ggccaagttg accagtgccg ttccggtgct caccgcgcgc gacgtcgccg
+     1501 gagcggtcga gttctggacc gaccggctcg ggttctcccg ggacttcgtg gaggacgact
+     1561 tcgccggtgt ggtccgggac gacgtgaccc tgttcatcag cgcggtccag gaccaggtgg
+     1621 tgccggacaa caccctggcc tgggtgtggg tgcgcggcct ggacgagctg tacgccgagt
+     1681 ggtcggaggt cgtgtccacg aacttccggg acgcctccgg gccggccatg accgagatcg
+     1741 gcgagcagcc gtgggggcgg gagttcgccc tgcgcgaccc ggccggcaac tgcgtgcact
+     1801 tcgtggccga ggagcaggac tgacacgtcc gacggcggcc cacgggtccc aggcctcgga
+     1861 gatccgtccc ccttttcctt tgtcgatatc atgtaattag ttatgtcacg cttacattca
+     1921 cgccctcccc ccacatccgc tctaaccgaa aaggaaggag ttagacaacc tgaagtctag
+     1981 gtccctattt atttttttat agttatgtta gtattaagaa cgttatttat atttcaaatt
+     2041 tttctttttt ttctgtacag acgcgtgtac gcatgtaaca ttatactgaa aaccttgctt
+     2101 gagaaggttt tgggacgctc gaaggcttta atttgcaagc tggagaccaa catgtgagca
+     2161 aaaggccagc aaaaggccag gaaccgtaaa aaggccgcgt tgctggcgtt tttccatagg
+     2221 ctccgccccc ctgacgagca tcacaaaaat cgacgctcaa gtcagaggtg gcgaaacccg
+     2281 acaggactat aaagatacca ggcgtttccc cctggaagct ccctcgtgcg ctctcctgtt
+     2341 ccgaccctgc cgcttaccgg atacctgtcc gcctttctcc cttcgggaag cgtggcgctt
+     2401 tctcaatgct cacgctgtag gtatctcagt tcggtgtagg tcgttcgctc caagctgggc
+     2461 tgtgtgcacg aaccccccgt tcagcccgac cgctgcgcct tatccggtaa ctatcgtctt
+     2521 gagtccaacc cggtaagaca cgacttatcg ccactggcag cagccactgg taacaggatt
+     2581 agcagagcga ggtatgtagg cggtgctaca gagttcttga agtggtggcc taactacggc
+     2641 tacactagaa ggacagtatt tggtatctgc gctctgctga agccagttac cttcggaaaa
+     2701 agagttggta gctcttgatc cggcaaacaa accaccgctg gtagcggtgg tttttttgtt
+     2761 tgcaagcagc agattacgcg cagaaaaaaa ggatctcaag aagatccttt gatcttttct
+     2821 acggggtctg acgctcagtg gaacgaaaac tcacgttaag ggattttggt catgcatgag
+     2881 atc
+//
